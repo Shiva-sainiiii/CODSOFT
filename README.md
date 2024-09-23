@@ -60,9 +60,12 @@ Feel free to reach out:
 - Email:
   shivasaini5.666@gmail.com
    
-- LinkedIn: @Shiva-sainiiii
+- LinkedIn: https://www.linkedin.com/in/shiva-sainiiii?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
   
-- GitHub: @Shiva-sainiiii
+  
+- GitHub:
+  https://github.com/Shiva-sainiiii
 
   
 
