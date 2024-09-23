@@ -57,9 +57,14 @@ Below are the three tasks I completed for Level 1:
 Feel free to reach out:
 
 
-- Email: [your email] 📧
-- LinkedIn: [your LinkedIn profile] 💼
-- GitHub: [your GitHub profile] 💻
+- Email:
+  shivasaini5.666@gmail.com
+   
+- LinkedIn: @Shiva-sainiiii
+  
+- GitHub: @Shiva-sainiiii
+
+  
 
 
 *_License_* 📜
