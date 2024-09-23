@@ -36,8 +36,11 @@ Below are the three tasks I completed for Level 1:
 
 *Task 3: Calculator 🤔*
 
-- GitHub Repository: [link] 💻
-- Preview Link: [link] 📊
+- GitHub Repository: https://github.com/Shiva-sainiiii/Level-1-Task-3
+   
+- Preview Link:
+  https://shiva-sainiiii.github.io/Level-1-Task-3/
+  
 - Description: A basic calculator application performing arithmetic operations 📊.
 
 
