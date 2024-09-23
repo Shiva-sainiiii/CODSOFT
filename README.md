@@ -1,3 +1,9 @@
+__CODSOFT Internship Program__
+
+
+I am honored to have been selected for the CODSOFT Internship Program, September Batch A75, which commenced on September 10, 2024. This prestigious program offers a unique opportunity to develop skills in various domains, including Web Development, Android App Development, Java Programming, Python Programming, Data Science, C++ Programming, UI/UX Design, Machine Learning, and Artificial Intelligence
+
+
 *_CODSOFT - Internship Tasks_* 📚
 
 
